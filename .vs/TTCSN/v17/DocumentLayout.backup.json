@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\dangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\dangnhap.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\ctcsuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\ctcsuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\quenmk.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\quenmk.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\ctcsuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\ctcsuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\chitietcs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\chitietcs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\chitietcs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\chitietcs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\models\\duongdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\models\\duongdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\models\\chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\models\\chinhsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\models\\nvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\models\\nvc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|c:\\users\\dell\\downloads\\chinh_sach_va_quy_dinh-master\\ttcsn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3540D13A-382C-417A-8EE3-F819C01FE4DD}|TTCSN\\TTCSN.csproj|solutionrelative:ttcsn\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuenMK.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\QuenMK.xaml",
+              "RelativeDocumentMoniker": "TTCSN\\QuenMK.xaml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\QuenMK.xaml",
+              "RelativeToolTip": "TTCSN\\QuenMK.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T17:41:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CTCSUser.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\CTCSUser.xaml",
+              "RelativeDocumentMoniker": "TTCSN\\CTCSUser.xaml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\CTCSUser.xaml",
+              "RelativeToolTip": "TTCSN\\CTCSUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T17:41:39.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTCSUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\CTCSUser.xaml.cs",
+              "RelativeDocumentMoniker": "TTCSN\\CTCSUser.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\CTCSUser.xaml.cs",
+              "RelativeToolTip": "TTCSN\\CTCSUser.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Duongdan.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\Models\\Duongdan.cs",
+              "RelativeDocumentMoniker": "TTCSN\\Models\\Duongdan.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\Models\\Duongdan.cs",
+              "RelativeToolTip": "TTCSN\\Models\\Duongdan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChinhSach.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\Models\\ChinhSach.cs",
+              "RelativeDocumentMoniker": "TTCSN\\Models\\ChinhSach.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\Models\\ChinhSach.cs",
+              "RelativeToolTip": "TTCSN\\Models\\ChinhSach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangNhap.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\DangNhap.xaml.cs",
+              "RelativeDocumentMoniker": "TTCSN\\DangNhap.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\DangNhap.xaml.cs",
+              "RelativeToolTip": "TTCSN\\DangNhap.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChiTietCS.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\ChiTietCS.xaml.cs",
+              "RelativeDocumentMoniker": "TTCSN\\ChiTietCS.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\ChiTietCS.xaml.cs",
+              "RelativeToolTip": "TTCSN\\ChiTietCS.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\App.xaml",
+              "RelativeDocumentMoniker": "TTCSN\\App.xaml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\App.xaml",
+              "RelativeToolTip": "TTCSN\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T17:41:39.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietCS.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\ChiTietCS.xaml",
+              "RelativeDocumentMoniker": "TTCSN\\ChiTietCS.xaml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\ChiTietCS.xaml",
+              "RelativeToolTip": "TTCSN\\ChiTietCS.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T17:41:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "TTCSN\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\AssemblyInfo.cs",
+              "RelativeToolTip": "TTCSN\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Nvc.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\Models\\Nvc.cs",
+              "RelativeDocumentMoniker": "TTCSN\\Models\\Nvc.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\Models\\Nvc.cs",
+              "RelativeToolTip": "TTCSN\\Models\\Nvc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TTCSN\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\MainWindow.xaml",
+              "RelativeToolTip": "TTCSN\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T17:41:39.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TTCSN\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\Chinh_sach_va_Quy_dinh-master\\TTCSN\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TTCSN\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMoDAAAAAAAAAAAMwNoDAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:41:39.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1241,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
